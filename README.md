@@ -1,3 +1,6 @@
+## Fork fixes
+- Add PHP8/Laravel8 support
+
 The missing XML support for Laravel's Collection class.
 
 This package is designed to work with the [Laravel](https://laravel.com) framework.
