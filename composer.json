@@ -1,5 +1,5 @@
 {
-    "name": "mtownsend/collection-xml",
+    "name": "bagart/collection-xml",
     "description": "The missing XML support for Laravel's Collection class.",
     "keywords": [
         "collection",
